@@ -1,0 +1,37 @@
+
+
+/*  Nav Bar styling */
+
+.navbar {
+    height: 65px;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.navbar .nbitem {
+    background: #1F2937;
+    color: #e5e7eb;
+    flex: 1;
+    
+}
+
+header {
+    background: #1f2937;
+    height: 65px;
+}
+
+.links {
+    text-align: right;
+    display: inline;
+}
+
+.links ul {
+    list-style-type: none;
+    padding: 15px;
+}
+
+.links li {
+    display: inline;
+}
